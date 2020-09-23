@@ -1,4 +1,4 @@
-# N-Queens-Web (VeuJs)
+# N-Queens-Web (VueJs)
 
 The classic problem of N queens, originally published by Max Bezzel in 1848, is defined like this: Place N queens in a NxN chessboard so that no queen threatens any other.
 A queen threatens another chess piece if they share the same row, column or diagonal.
